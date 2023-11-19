@@ -1,0 +1,72 @@
+{
+  "properties": [
+    {
+      "number": 1,
+      "type": "Villa",
+      "city": "Kyiv",
+      "price": "222",
+      "id": "743e3d4c-3c1b-4974-aebc-dc6ddbc4dd1d"
+    },
+    {
+      "number": 2,
+      "type": "Villa",
+      "city": "Kharkiv",
+      "price": "222",
+      "id": "7f06236a-2f18-4e8b-a156-b03f38364099"
+    },
+    {
+      "number": 3,
+      "type": "Villa",
+      "city": "Kyiv",
+      "price": "222",
+      "id": "22f8c4b3-1c19-4513-b020-9c73b1248355"
+    },
+    {
+      "number": 4,
+      "type": "Villa",
+      "city": "Kharkiv",
+      "price": "222",
+      "id": "c9f3b5cb-0aeb-4859-9a49-9278bff4734c"
+    },
+    {
+      "number": 5,
+      "type": "Villa",
+      "city": "Kyiv",
+      "price": 0,
+      "id": "845d577b-e47f-43a1-a629-5e375a85ed7a"
+    }
+  ],
+  "city": [
+    "Kyiv",
+    "Kharkiv",
+    "Odesa",
+    "Dnipro",
+    "Lviv",
+    "Zaporizhzhia",
+    "Kryvyi Rih",
+    "Mykolaiv",
+    "Mariupol",
+    "Vinnytsia",
+    "Poltava",
+    "Chernivtsi",
+    "Chernihiv",
+    "Cherkasy",
+    "Kherson",
+    "Khmelnytskyi",
+    "Rivne",
+    "Ivano-Frankivsk",
+    "Kropyvnytskyi",
+    "Ternopil",
+    "Zhytomyr",
+    "Sumy",
+    "Sievierodonetsk",
+    "Uzhhorod"
+  ],
+  "type": [
+    "Villa",
+    "Penthouse",
+    "Cottage",
+    "Apartment",
+    "Mansion"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-json",
+  "version": "1.0.0",
+  "author": "Myhailo",
+  "description": "Very simple backend to gun project on localhost",
+  "dependencies": {
+    "json-server": "0.17.4",
+    "uuid": "^9.0.1"
+  },
+  "license": "MIT"
+}
